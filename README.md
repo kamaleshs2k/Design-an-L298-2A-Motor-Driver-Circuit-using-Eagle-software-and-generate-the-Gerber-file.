@@ -75,7 +75,7 @@ o	When both inputs are the same, the motor stops.<br>
  
 ### Layout diagram
 
-<img width="1919" height="1079" alt="Screenshot 2025-10-09 134133" src="https://github.com/user-attachments/assets/e3f39b48-06f0-44fe-a64c-82482329e878" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/583dbabc-be3a-47a7-ad8a-0742b044466f" />
 
  
 # RESULT:
